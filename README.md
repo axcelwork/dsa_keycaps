@@ -14,4 +14,4 @@ Ergodox EZのキー配列と書き込みデータ。
 Adobe Illustratorのデータです。
 PDFも置いておきました。
 
-![ai-pdf](https://user-images.githubusercontent.com/305371/75521787-c6a57280-5a4b-11ea-899e-68e249614ad9.png)
+![ai-pdf](https://user-images.githubusercontent.com/305371/75521895-04a29680-5a4c-11ea-905d-15ff596a875a.png)
