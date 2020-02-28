@@ -13,3 +13,5 @@ Ergodox EZのキー配列と書き込みデータ。
 # 昇華印刷用の元データ
 Adobe Illustratorのデータです。
 PDFも置いておきました。
+
+![ai-pdf](https://github.com/axcelwork/dsa_keycaps/blob/master/ai/DSA_keycaps.pdf)
